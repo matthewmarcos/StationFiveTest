@@ -20,3 +20,8 @@ $ yarn --version
 3. Start the server
 > $ yarn start
 4. Navigate to localhost:3000
+
+### Author
+N: Joseph Matthew Marcos
+C: +63935 146 3943
+E: matthewmarcos94@gmail.com
